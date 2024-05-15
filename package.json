@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/PHMA2003/bl/issues"
   },
-  "homepage": "https://github.com/PHMA2003/bl#readme"
+  "homepage": "https://github.com/PHMA2003/bl#readme",
+  "dependencies": {
+    "cpf": "^2.0.1",
+    "express": "^4.19.2",
+    "validator": "^13.12.0"
+  }
 }
