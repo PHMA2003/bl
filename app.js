@@ -7,7 +7,6 @@ const validator = require('validator');
 // Configuração para usar o bodyParser
 app.use(bodyParser.urlencoded({ extended: true }));
 
-// CSS para estilizar o formulário
 const css = `
 *{
     margin: 0;
