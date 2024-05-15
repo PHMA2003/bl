@@ -4,7 +4,6 @@ const bodyParser = require('body-parser');
 const cpf = require('cpf');
 const validator = require('validator');
 
-// Configuração para usar o bodyParser
 app.use(bodyParser.urlencoded({ extended: true }));
 
 const css = `
